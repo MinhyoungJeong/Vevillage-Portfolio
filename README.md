@@ -23,8 +23,10 @@ Built with Java, Spring Boot, PostgreSQL, and Flutter.
 
 ### 4. 마켓플레이스 (개발 진행중)
 식단 유형·카테고리로 채식 상품을 찾고, 장바구니에 담은 뒤 판매처로 이동합니다.
+<img width="331" height="683" alt="스크린샷 2026-10-29 오후 11 01 36" src="https://github.com/user-attachments/assets/40d8570a-56d9-43f7-8aec-b5ffaf57d3aa" />
 
-<!-- 스크린샷 -->
+<img width="331" height="683" alt="스크린샷 2026-10-29 오후 11 01 21" src="https://github.com/user-attachments/assets/4a7de13f-e37c-4121-baf6-bd4466cdb8b0" />
+
 
 ### 5. 커뮤니티
 토픽별 피드에서 글·사진·댓글로 식단과 챌린지 기록을 나눕니다. (개발 진행중)
